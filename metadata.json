@@ -1,0 +1,5 @@
+{
+  "name": "SystemCore AI Optimizer",
+  "description": "A comprehensive system analysis and optimization assistant powered by Gemini AI. Diagnoses issues and generates optimization scripts.",
+  "requestFramePermissions": []
+}
